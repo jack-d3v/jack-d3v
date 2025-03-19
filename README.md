@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+![Visitors](https://badges.pufler.dev/visits/jack-d3v/jack-d3v)
+![Profile Views](https://komarev.com/ghpvc/?username=jack-d3v)
+
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+
+
+
+
+
+
 <!--
 **jack-d3v/jack-d3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
