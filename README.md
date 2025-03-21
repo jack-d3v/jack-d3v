@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I mainly program in rust (praise the docs) but if I have to head to front end its svelte for me.  
+
+Currently working on a git issue grabber for the CLI and also a note taking desktop app!
+
 ![Visitors](https://badges.pufler.dev/visits/jack-d3v/jack-d3v)
 ![Profile Views](https://komarev.com/ghpvc/?username=jack-d3v)
 
